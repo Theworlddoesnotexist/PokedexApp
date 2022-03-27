@@ -1,2 +1,3 @@
 # PokedexApp
-pokedex using pokeapi only css js html
+pokedex using pokeapi only css js html.
+using only flexbox.
